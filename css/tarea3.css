@@ -12,6 +12,7 @@ h1{
     margin: 10px 16px;
     margin-top: 1px;
     padding: 20px 30px;
+    border-top: 2px solid aqua;
 }
 body{
     background-image:url(../images/bg.png);
@@ -19,11 +20,19 @@ body{
 tr{
     color: white;
     background-image: url(../images/code.jpg);
-    border: 2px;
-    border-color: aqua;
     text-align: center;
 }
 table{
     margin-left: auto;
     margin-right: auto;
+    margin-top: 120px;
+    background-color: #4e4d4d;
+    padding: 20px;
+    border-top: 2px solid aqua;
+}
+td{
+    padding: 10px 25px 10px 25px;
+    border-top: 2px solid aqua;
+    border-right: 2px solid aqua;
+
 }
