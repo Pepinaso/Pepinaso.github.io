@@ -1,0 +1,29 @@
+h1{
+    height: 40px;
+    margin-bottom: 30px;
+    padding-bottom: 1px solid;
+    text-size-adjust: 20px;
+    text-align: center;
+    border-bottom: 1px solid;
+    color: white;
+}
+.cuadro{
+    background-color: #4e4d4d;
+    margin: 10px 16px;
+    margin-top: 1px;
+    padding: 20px 30px;
+}
+body{
+    background-image:url(../images/bg.png);
+}    
+tr{
+    color: white;
+    background-image: url(../images/code.jpg);
+    border: 2px;
+    border-color: aqua;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
